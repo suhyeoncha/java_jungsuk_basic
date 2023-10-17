@@ -18,3 +18,4 @@ java_jungsuk_basic
 - 토글 뜻 : 하나의 설정 값에서 다른 값으로 변경하는 것을 의미  
 - 토글키 : on/off 스위치(상태전환 키_스위치)   
 - ex:  caps lock/num lock/scroll lock 자판키  
+  
